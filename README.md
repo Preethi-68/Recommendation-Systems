@@ -3,7 +3,7 @@ We have always wondered how Amazon, Flipkart or even youtube suggest alternative
 
 Recommender system creates a matching between users and items and exploits the similarity between users/itemsto make recommendations. Proprietary content. ©Great Learning. All Rights Reserved. Unauthorized  use or distribution  prohibited
 work flow of Project
-# Data Set from  Amazon Reviews data: http://jmcauley.ucsd.edu/data/amazon/
+ Data Set from  Amazon Reviews data: http://jmcauley.ucsd.edu/data/amazon/
   1  Importing Required Libraries
   2  Read and explore the dataset. ( Rename column, plot histograms, find data characteristics)
   3 Exploratory Data Analysis
