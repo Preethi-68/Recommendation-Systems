@@ -17,7 +17,7 @@ Recommender system creates a matching between users and items and exploits the s
      Data model preparation as per requirement on number of minimum ratings
   6 Split the data randomly into train and test dataset
   
-  7 ## Build Popularity Recommender model.
+  # Build Popularity Recommender model.
   
   8 Sort the products on recommendation score.
   
